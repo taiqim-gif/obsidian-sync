@@ -1,6 +1,0 @@
-views:
-  - type: table
-    name: 表
-    sort:
-      - property: file.name
-        direction: ASC
