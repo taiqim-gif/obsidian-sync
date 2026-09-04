@@ -1,0 +1,11 @@
+﻿# Obsidianのワークスペース状態(端末ごとに変わるので除外)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# キャッシュ類
+.obsidian/cache/
+.trash/
+
+# OS由来のゴミファイル
+.DS_Store
+Thumbs.db
